@@ -31,11 +31,6 @@
 </section>
 
 <hr/>
-<strong>웹디자인 & 퍼블리싱 국비학원수강</strong> <sub><sup>(2019.12 ~ 2020.05)</sup></sub><br>
-<strong>*** 웹디자인 & 퍼블리셔 </strong><sub><sup>(2020.07 ~ 2022.07)</sup></sub><br>
-<strong>코드캠프 수강[프론트엔드 오프라인]</strong> <sub><sup>(2022.08 ~ 2022.11)</sup></sub><br>
-<strong>리체</strong> <sub><sup>(2023.02 ~ 재직중)</sup></sub><br>
-<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyn95&theme=blue-green&amp;show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyn95&layout=compact&theme=blue-green&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
