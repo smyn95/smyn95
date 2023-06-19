@@ -22,13 +22,6 @@
 </section>
 <br/>
 
-## Studying
-
-<section>
-<img width="50" alt="Redux" src="https://user-images.githubusercontent.com/72180863/213677277-5271af57-f8c9-4b84-a302-d3d182b65085.svg" style="max-width: 100%;">
-<img width="50" alt="AWS" src="https://user-images.githubusercontent.com/72180863/213677285-f5b02b8c-a0a2-4eb7-aacf-a0744004660f.svg" style="max-width: 100%;">
-<img width="50" alt="Jest" src="https://user-images.githubusercontent.com/72180863/213677496-a8fd37cc-cd30-400c-9b74-e717ec0e2df5.svg" style="max-width: 100%;">
-</section>
 
 <hr/>
 
