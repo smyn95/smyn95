@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/Next.js-red"/>
  <img src="https://img.shields.io/badge/Tailwind.css-blue"/>
  <img src="https://img.shields.io/badge/Emotion-purple"/>
+ <img src="https://img.shields.io/badge/Firebase-green"/>
  <img src="https://img.shields.io/badge/Laravel-orange"/></br>
  <img src="https://img.shields.io/badge/ApolloClient-black"/>
  <img src="https://img.shields.io/badge/Axios-black"/>
