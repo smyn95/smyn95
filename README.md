@@ -15,8 +15,8 @@
 
 <a href="https://velog.io/@tlsalduszz/posts"><img align="right" src="https://velog-readme-stats.vercel.app/api/list?name=tlsalduszz"/></a>
 
- - Liche (e-commerce & BNPL 결제 페이지) - FE 개발 <sub>(2023.02 ~ )</sub>
- - 솔비스 (HRD 솔루션) - 퍼블리셔 <sub>(2021.05 ~ 2022.03)</sub>
+ - Liche - FE 개발 <sub>(2023.02 ~ )</sub>
+ - 솔비스 - 퍼블리셔 <sub>(2021.05 ~ 2022.03)</sub>
  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=fff)
