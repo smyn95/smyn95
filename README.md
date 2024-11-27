@@ -15,7 +15,8 @@
 
 <a href="https://velog.io/@tlsalduszz/posts"><img align="right" src="https://velog-readme-stats.vercel.app/api/list?name=tlsalduszz"/></a>
 
- - Liche - FE 개발 <sub>(2023.02 ~ 2024.08)</sub>
+ - Onycom - FE 개발 (데이터 시각화, sass) <sub>(2024.11 ~ ing)</sub>
+ - Liche - FE 개발 (핀테크 솔루션, 이커머스) <sub>(2023.02 ~ 2024.08)</sub>
  - 솔비스 - 퍼블리셔 <sub>(2021.05 ~ 2022.03)</sub>
  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
