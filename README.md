@@ -14,7 +14,7 @@
 
 <a href="https://velog.io/@tlsalduszz/posts"><img align="right" src="https://velog-readme-stats.vercel.app/api/list?name=tlsalduszz"/></a>
 
- - Onycom - FE 개발 (데이터 시각화, sass) <sub>(2024.11 ~ ing)</sub>
+ - Onycom - FE 개발 (데이터 시각화, sass) <sub>(2024.11 ~ 2025.12)</sub>
  - Liche - FE 개발 (핀테크 솔루션, 이커머스) <sub>(2023.02 ~ 2024.08)</sub>
  - 솔비스 - 퍼블리셔 <sub>(2021.05 ~ 2022.03)</sub>
  
